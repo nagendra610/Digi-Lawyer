@@ -1,0 +1,29 @@
+{
+  "theft": {
+    "section": "IPC 378",
+    "description": "Theft means dishonestly taking someone's property.",
+    "authority": "Police Station"
+  },
+  "cyber bullying": {
+    "section": "IT Act 66A",
+    "description": "Sending offensive messages online.",
+    "authority": "Cyber Crime Police"
+  },
+  "domestic violence": {
+    "section": "DV Act 2005",
+    "description": "Violence within family or household.",
+    "authority": "Women Protection Cell"
+  },
+  "cheating and dishonestly inducing delivery of property": {
+    "section": "IPC 420",
+    "description": "punishment for cheating and inducing delivery of property punishable with imprisonment up to 7 years and fine.",
+    "authority": "police/magistrate court"
+  },
+  "bullying a woman":{
+    "section": "IPC 509",
+    "description": "punishment for insulting modesty through words or gestures.",
+    "authority": "police"
+  }
+
+}
+ 
